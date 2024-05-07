@@ -27,10 +27,7 @@ Ce projet présente le processus de nettoyage et de prétraitement des données 
 - Pour exécuter le script, assurez-vous d'avoir Python installé avec Pandas, Numpy, Seaborn, et Scikit-learn.
 - Copiez le script dans un fichier `.py`.
 - Assurez-vous que le fichier `house_prices.csv` est présent dans le même répertoire que le script.
-- Exécutez le script avec `python nom_du_script.py`.
-
-## Licence
-Le contenu de ce projet est sous licence [Licence à préciser].
+- Exécutez le script avec `Data_Cleaning_Project.py`.
 
 ## Contributions
 Les contributions sont les bienvenues. Veuillez soumettre des demandes de tirage (pull requests) ou signaler des problèmes (issues) pour suggérer des améliorations.
