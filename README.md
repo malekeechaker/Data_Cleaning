@@ -33,4 +33,4 @@ Ce projet présente le processus de nettoyage et de prétraitement des données 
 Les contributions sont les bienvenues. Veuillez soumettre des demandes de tirage (pull requests) ou signaler des problèmes (issues) pour suggérer des améliorations.
 
 ## Contact
-Pour toute question ou commentaire, veuillez contacter [votre adresse e-mail ou un autre point de contact].
+Pour toute question ou commentaire, veuillez contacter melekchaker@gmail.com.
